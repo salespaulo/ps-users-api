@@ -1,6 +1,13 @@
 # ps-users-api
 An Node.js Api to supply client applications like Web Site, Mobile, etc.
 
+## Running
+
+```
+$> npm install
+$> npm run prod|dev|test|compile
+```
+
 ## Key Words
 
 - Node.js 
