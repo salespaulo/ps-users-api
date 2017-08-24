@@ -20,11 +20,14 @@ $> npm run prod|dev|test|compile
 
 - Node.js 
 - Restify.js
+- Jwt
 - Nano
 - SuperTest
 - MochaTest
 
 ## Advanced
+- ECMAScript 6
+- TypeScript
 - Promises
 - Social Google Login
 - Social Facebook Login
