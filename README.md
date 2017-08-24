@@ -8,17 +8,23 @@ $> npm install
 $> npm run prod|dev|test|compile
 ```
 
-## Key Words
+## What's
 
-- Node.js 
 - Restfull API 
-- Restify.js
+- Functional Programming
 - CouchDB
 - Docker
 - Grunt
-- Functional Programming
-- Social Google Login
-- Social Facebook Login
+
+## How it
+
+- Node.js 
+- Restify.js
 - Nano
 - SuperTest
 - MochaTest
+
+## Advanced
+- Promises
+- Social Google Login
+- Social Facebook Login
