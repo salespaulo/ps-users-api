@@ -1,0 +1,10 @@
+version: '2'
+services:
+    ps-users-api:
+      image: "ps-users-docker-api"
+      ports:
+        - "8080:8000"
+    couchdb:
+      image: "klaemo/couchdb:latest"
+      ports:
+        - "5984:5984"

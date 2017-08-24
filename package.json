@@ -1,0 +1,70 @@
+{
+  "name": "ps-users-api",
+  "version": "1.0.0",
+  "description": "A Post Scriptum Users RestFull API",
+  "scripts": {
+    "prod": "grunt",
+    "dev": "grunt dev",
+    "test": "grunt test",
+    "compile": "grunt compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://salespaulo@bitbucket.org/post--scriptum/ps-users-api"
+  },
+  "keywords": [
+    "market",
+    "ps-users-api",
+    "api",
+    "restfull",
+    "nodejs"
+  ],
+  "author": "Freunde Von Ideen",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/post--scriptum/ps-users-api#readme",
+  "dependencies": {
+    "@types/node": "^7.0.39",
+    "config": "^1.26.1",
+    "fb": "^2.0.0",
+    "googleapis": "^20.1.0",
+    "jsonwebtoken": "^7.4.1",
+    "nano": "^6.4.0",
+    "restify": "^5.0.1",
+    "restify-cors-middleware": "^1.0.0",
+    "restify-errors": "^4.3.0",
+    "restify-plugins": "^1.6.0",
+    "uuid": "^3.1.0",
+    "winston": "^2.3.1",
+    "server-destroy": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^3.5.0",
+    "@types/config": "0.0.32",
+    "@types/jsonwebtoken": "^7.2.2",
+    "@types/mocha": "^2.2.40",
+    "@types/restify": "^5.0.1",
+    "@types/restify-cors-middleware": "^1.0.0",
+    "@types/restify-plugins": "^1.5.4",
+    "@types/supertest": "^2.0.0",
+    "@types/uuid": "^2.0.29",
+    "chai": "^3.5.0",
+    "concurrent": "^0.3.2",
+    "grunt": "^1.0.1",
+    "grunt-ava": "^0.16.0",
+    "grunt-concurrent": "^2.3.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-test": "^0.13.2",
+    "grunt-nodemon": "^0.4.2",
+    "grunt-shell": "^2.1.0",
+    "grunt-ts": "^6.0.0-beta.15",
+    "load-grunt-tasks": "^3.5.2",
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0",
+    "nyc": "^10.2.0",
+    "server-destroy": "^1.0.1",
+    "supertest": "^3.0.0",
+    "typescript": "^2.4.1"
+  }
+}
