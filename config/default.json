@@ -6,14 +6,14 @@
     },
     "auth": {
         "facebook": {
-            "id": "340981803011837",
-            "secret": "9a3bb6f1245f354487a3863e151707ab",
-            "redirectUrl": "http://localhost:8080/facebook/"
+            "id": "",
+            "secret": "",
+            "redirectUrl": ""
         },
         "google": {
-            "id": "378550191134-pqt4s7qstbel14gb0u9l0v61mn5kt1dm.apps.googleusercontent.com",
-            "secret": "rjAeHaSNUh8A9S7E6TK0KQFl",
-            "redirectUrl": "http://localhost:8080/google/"
+            "id": "",
+            "secret": "",
+            "redirectUrl": ""
         }
     },
     "jwt": {
