@@ -17,7 +17,7 @@
         }
     },
     "jwt": {
-        "header": "DMAPI-Authorization",
+        "header": "Authorization",
         "secret": "my-secret-jwt"
     },
     "db": {
